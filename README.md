@@ -6,4 +6,4 @@ simple application to test websocket
   - cd web_socket/app
   - node index.js
   - open index.html
-  the application sends your message to all of the users who are connected right now.
+  - the application sends your message to all of the users who are connected right now.
